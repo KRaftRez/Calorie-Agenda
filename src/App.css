@@ -1,0 +1,254 @@
+.App {
+  margin: 100px;
+  width: 640px;
+  height: 150px;
+  align-items: center;
+  background-color: #ebebeb;
+  
+}
+
+.search{
+  margin: 10PX;
+  padding: 10px;
+  font-size: 20px;
+  border-radius: 40px;
+  border-color: aliceblue;
+}
+.Wrapper{
+ 
+  align-items: center;
+  background-color: #ebebeb;
+  display: flex;
+  height: 50px;
+  border-color: #dadada;
+  border-style: solid;
+  border-width: 2px;
+  width: 640px;
+}
+
+.Wrapper2{
+ 
+  align-items: center;
+  background-color: #ebebeb;
+  display: flex;
+  height: 50px;
+  border-color: #dadada;
+  border-style: solid;
+  border-width: 2px;
+  width: 640px;
+}
+.Wrapper3{
+ 
+  align-items: center;
+  background-color: #ffffff;
+  display: flex;
+  height: 50px;
+  border-color: #f1f1f1;
+  border-style: solid;
+  border-width: 2px;
+  width: 640px;
+}
+.list{
+  padding: 0;
+  list-style: none;
+  text-align: center;
+}
+
+.listItem{
+  margin-bottom: 20px;
+  font-size: 25px;
+  color: #444;
+  font-weight: 300;
+}
+
+.Text{
+  margin-left: 10px;
+  font-size: 20px;
+  font-weight: bold;
+  color: #444;
+}
+
+.Text1{
+  margin-left: 12px;
+  font-size: 20px;
+  margin-right: 200px;
+  font-weight: bold;
+  color: #444;
+}
+.Text4{
+  margin-left: 40px;
+  font-size: 20px;
+  margin-right: 20px;
+  
+  color: #444;
+}
+.Text0{
+  margin-left: 15px;
+  font-size: 20px;
+  margin-right: 240px;
+ 
+  color: #444;
+}
+
+
+.SFood{
+  align-items: center;
+  background-color: #ebebeb;
+  display: flex;
+  height: 50px;
+  border-color: #dadada;
+  border-style: solid;
+  width: 640px;
+  border-width: 2px;
+}
+
+
+.Text3{
+  margin-left: 10px;
+  font-size: 20px;
+  font-weight: bold;
+  color: #444;
+}
+.Text6{
+  margin-left: 10px;
+  font-size: 20px;
+  margin-right:195px;
+  color: #444;
+}
+.Text7{
+  margin-left: 20px;
+  font-size: 20px;
+  margin-right: 20px;
+  color: #444;
+}
+
+.Search{
+  margin-top: 100px;
+  align-items: center;
+  background-color: #ebebeb;
+  display: flex;
+  height: 70px;
+  border-color: #dadada;
+  border-style: solid;
+  border-width: 2px;
+  width: 640px;
+  
+}
+
+.SearchBar{
+  align-items: center;
+  background-color: #ffffff;
+  display: flex;
+  height: 40px;
+  border-color: #e7e7e7;
+  border-style: solid;
+  border-width: 2px;
+  width: 200px;
+  margin-left: 10px;
+  border-radius: 20px;
+ 
+  font-size: 20px;
+  text-align: left;
+
+}
+
+.Wrapper3:hover{
+  align-items: center;
+  background-color: #cecccc;
+  display: flex;
+  height: 50px;
+  border-color: #f1f1f1;
+  border-style: solid;
+  border-width: 2px;
+  width: 640px;
+}
+
+.SearchBar:hover{
+  align-items: center;
+  background-color: #ffffff;
+  display: flex;
+  height: 40px;
+  border-color: #acacac;
+  border-style: solid;
+  border-width: 2px;
+  width: 200px;
+  margin-left: 10px;
+  border-radius: 20px;
+ 
+  font-size: 23px;
+  text-align: left;
+}
+
+.Button{
+  margin-left:360px;
+  width: 40px;
+  height: 40px;
+  font-size: 30px;
+  border-radius: 20px;
+  border-color: #acacac;
+  
+ 
+}
+.Button:hover{
+  margin-left:360px;
+  width: 50px;
+  height: 50px;
+  font-size: 30px;
+  border-radius: 30px;
+  border-color: #acacac;
+  background-color: #acacac;
+ 
+
+}
+
+.AddItem{
+  margin-top: 100px;
+  width: 230px;
+  height: 375px;
+  align-items: center;
+  background-color: #ebebeb;
+  border-style: solid;
+  border-width: 2px;
+  border-color:#cacaca ;
+  
+}
+
+.Add{
+  align-items: center;
+  background-color: #ffffff;
+  display: flex;
+  height: 40px;
+  border-color: #e7e7e7;
+  border-style: solid;
+  border-width: 2px;
+  width: 200px;
+  margin-left: 10px;
+  border-radius: 10px;
+  margin-top: 10px;
+  font-size: 20px;
+  text-align: left;
+
+}
+
+.AddText{
+  align-items: center;
+  background-color: #ebebeb;
+  display: flex;
+  height: 50px;
+  border-color: #dadada;
+  border-style: solid;
+  width: 230px;
+  border-width: 2px;
+}
+
+.AddButton{
+  width: 200px;
+  margin-top: 10px;
+  height: 30px;
+  margin-left: 11px;
+  border-radius: 10px;
+  border-color: #dadada;
+}
+.AddButton:hover{
+  background-color:#dadada ;
+}
